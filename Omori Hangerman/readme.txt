@@ -15,6 +15,7 @@ MUSIC - Pedro Silva
 
 Special thanks:
 Mr Blake
+My parents
 Chris
 Tim
 Angel
