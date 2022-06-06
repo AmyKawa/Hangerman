@@ -28,7 +28,7 @@ To rebuild:
 -Click on the top part where the path is, and type 'cmd'
 -Enter the following command:
 
-pyinstaller source.py --onefile --icon=omori.ico --noconsole
+pyinstaller source.py --onefile --icon=assets/misc/omori.ico --noconsole
 
 -If you get an error that states pyinstaller doesn't exist or cannot be found, enter the following:
 
