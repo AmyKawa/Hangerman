@@ -1,6 +1,5 @@
-# Block 5
-# Amy Lee
-# Final Project 2 - Pygame Hangman
+# Amy
+# Pygame Hangman
 
 import pygame, random, sys
 
