@@ -23,17 +23,20 @@ Jakub
 
 ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
 
-Feel free to make your own changes :]
+2 Reasons why you might have to rebuild the exe file:
+-Feel free to make your own changes :]
+-Your device detects that the file could have suspicious code (it doesn't, you can check source.py and go through it yourself)
+
 To rebuild:
 -Delete the folder called 'build', as well as the exe file
 -Click on the top part where the path is, and type 'cmd'
--Enter the following command:
+1: Install pyintaller
 
-pyinstaller source.py --onefile --icon=assets/misc/omori.ico --noconsole
+  pip install pyinstaller
 
--If you get an error that states pyinstaller doesn't exist or cannot be found, enter the following:
+2: Create the .exe file
 
-pip install pyinstaller
+  pyinstaller source.py --onefile --icon=assets/misc/omori.ico --noconsole
 
 -If pip cannot be found, head over to https://www.python.org/downloads/ and download python (3.7.9 is preferred for this game)
 Make sure to add Python to PATH (you can toggle the checkbox in the install wizard)
