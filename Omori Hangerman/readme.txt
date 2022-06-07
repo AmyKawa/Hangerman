@@ -24,7 +24,7 @@ Jakub
 ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
 
 2 Reasons why you might have to rebuild the exe file:
--Feel free to make your own changes :]
+-Modding!! Feel free to make your own changes :]
 -Your device detects that the file could have suspicious code (it doesn't, you can check source.py and go through it yourself)
 
 To rebuild:
