@@ -38,6 +38,8 @@ To rebuild:
 
   pyinstaller source.py --onefile --icon=assets/misc/omori.ico --noconsole
 
+3: Move the .exe file to the 'Omori Hangerman' folder
+
 -If pip cannot be found, head over to https://www.python.org/downloads/ and download python (3.7.9 is preferred for this game)
 Make sure to add Python to PATH (you can toggle the checkbox in the install wizard)
 
